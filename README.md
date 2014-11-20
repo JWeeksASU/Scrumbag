@@ -1,0 +1,4 @@
+Scrumbag
+========
+
+Automating Scrum Elements
